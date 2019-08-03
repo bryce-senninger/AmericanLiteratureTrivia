@@ -1,0 +1,43 @@
+#header {
+    text-align: center;
+    background: rgb(216, 185, 145, 0.8);
+    height: 95px;
+    vertical-align: center;
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Beth Ellen', cursive;
+    box-shadow: 10px 10px 8px #888888;
+    border-style: double;
+    border-color: white;
+    border-width: 5px;
+    line-height: 47px;
+}
+
+#questionContent {
+    margin-top: 5%;
+    background-image: linear-gradient(to right, rgb(107, 151, 117, 0.95), rgb(69, 116, 81, 0.95));
+    text-align: center;
+    position: fixed;
+    left: 50%;
+    transform: translate(-50%);
+    border-style: double;
+    border-color: white;
+    border-width: 5px;
+    box-shadow: 10px 10px 8px #888888;
+    padding: 300px;
+    width: 15%;
+    height: 11%;
+}
+
+body {
+    background-image: url("../images/books_library_shelves_138556_1920x1080.jpg") 
+}
+
+#start {
+    width: 100px;
+    height: 50px;
+    font-family: 'Beth Ellen', cursive;
+    border-style: outset;
+    border-width: 5px;
+}
