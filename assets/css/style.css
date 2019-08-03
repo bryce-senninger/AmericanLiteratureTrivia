@@ -15,7 +15,7 @@
 }
 
 #questionContent {
-    margin-top: 5%;
+    margin-top: 3%;
     background-image: linear-gradient(to right, rgb(107, 151, 117, 0.95), rgb(69, 116, 81, 0.95));
     text-align: center;
     position: fixed;
@@ -27,7 +27,7 @@
     box-shadow: 10px 10px 8px #888888;
     padding: 300px;
     width: 15%;
-    height: 11%;
+    height: 1%;
 }
 
 body {
