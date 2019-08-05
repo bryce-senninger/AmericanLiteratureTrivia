@@ -28,6 +28,8 @@
     padding: 300px;
     width: 15%;
     height: 1%;
+    font-style: oblique;
+    font-size: 25px;
 }
 
 body {
@@ -40,4 +42,47 @@ body {
     font-family: 'Beth Ellen', cursive;
     border-style: outset;
     border-width: 5px;
+}
+
+h2, p, #options {
+    position: relative; 
+    top: -280px;
+    display: flex;
+}
+
+#options {
+    font-style: oblique;
+    margin-top: 10px;
+    width: 275px;
+    height: 40px;
+    background-color: #000000;
+    color: #FFFFFF;
+    padding: 10px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    margin:10px;
+}
+
+#options:hover {
+    background-color: white;
+    color: black;
+}
+
+img {
+    position: relative;
+    top: -270px;
+    left: -5px;
+    width: 300px;
+    height: 280px;
+}
+
+#startOver {
+    width: 300px;
+    height: 50px;
+    font-family: 'Beth Ellen', cursive;
+    border-style: outset;
+    border-width: 5px;
+    position: relative;
+    top: -250px;
 }
