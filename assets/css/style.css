@@ -14,7 +14,7 @@
 }
 
 #questionContent {
-    margin-top: 30px;
+    margin-top: 50px;
     background-image: linear-gradient(to right, rgb(107, 151, 117, 0.95), rgb(69, 116, 81, 0.95));
     text-align: center;
     border-style: double;
@@ -22,7 +22,7 @@
     border-width: 5px;
     box-shadow: 10px 10px 8px #888888;
     max-width: 40%;
-    height: 600px;
+    height: 90%;
     margin-left: auto;
     margin-right: auto;
     font-style: oblique;
@@ -75,6 +75,7 @@ p {
 }
 
 #options {
+    font-size: 15px;
     width: 200px;
     height: 50px;
     background-color: #000000;
@@ -84,4 +85,5 @@ p {
     -webkit-border-radius: 10px;
     font-style: oblique;
     flex: 1 100%;
+    margin:5px;
 }
